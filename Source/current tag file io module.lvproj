@@ -20,10 +20,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="tag select module configuration.lvclass" Type="LVClass" URL="../module/configuration/tag select module configuration.lvclass"/>
-		<Item Name="tag select module editor node.lvclass" Type="LVClass" URL="../editor node/tag select module editor node.lvclass"/>
-		<Item Name="tag select module runtime.lvclass" Type="LVClass" URL="../module/execution/tag select module runtime.lvclass"/>
-		<Item Name="tag select module tests.lvlib" Type="Library" URL="../testing/tag select module tests.lvlib"/>
+		<Item Name="current tag file io module configuration.lvclass" Type="LVClass" URL="../module/configuration/current tag file io module configuration.lvclass"/>
+		<Item Name="current tag file io module editor node.lvclass" Type="LVClass" URL="../editor node/current tag file io module editor node.lvclass"/>
+		<Item Name="current tag file io module runtime.lvclass" Type="LVClass" URL="../module/execution/current tag file io module runtime.lvclass"/>
+		<Item Name="current tag file io module tests.lvlib" Type="Library" URL="../testing/current tag file io module tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name=".NET Object To Variant.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/dotnet.llb/.NET Object To Variant.vi"/>
@@ -40,6 +40,9 @@
 				<Item Name="control module editor.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/Tag Bus Data Framework/control module/editor node/control module editor.lvclass"/>
 				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Convert property node font to graphics font.vi"/>
 				<Item Name="Create Mask By Alpha.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Create Mask By Alpha.vi"/>
+				<Item Name="Current Value Table.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Current Value Table/Current Value Table.lvlib"/>
+				<Item Name="CVT configuration.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/TBM Modules/CVT Access/configuration/CVT configuration.lvclass"/>
+				<Item Name="CVT runtime.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/TBM Modules/CVT Access/execution/CVT runtime.lvclass"/>
 				<Item Name="DataGrid.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW DataGridView/source/DataGrid.lvlib"/>
 				<Item Name="Details Display Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Details Display Dialog.vi"/>
 				<Item Name="DialogType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogType.ctl"/>
