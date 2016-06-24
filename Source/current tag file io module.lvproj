@@ -20,10 +20,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="current tag file io module configuration.lvclass" Type="LVClass" URL="../module/configuration/current tag file io module configuration.lvclass"/>
-		<Item Name="current tag file io module editor node.lvclass" Type="LVClass" URL="../editor node/current tag file io module editor node.lvclass"/>
-		<Item Name="current tag file io module runtime.lvclass" Type="LVClass" URL="../module/execution/current tag file io module runtime.lvclass"/>
-		<Item Name="current tag file io module tests.lvlib" Type="Library" URL="../testing/current tag file io module tests.lvlib"/>
+		<Item Name="file io module configuration.lvclass" Type="LVClass" URL="../module/configuration/file io module configuration.lvclass"/>
+		<Item Name="file io module editor node.lvclass" Type="LVClass" URL="../editor node/file io module editor node.lvclass"/>
+		<Item Name="file io module runtime.lvclass" Type="LVClass" URL="../module/execution/file io module runtime.lvclass"/>
+		<Item Name="file io module tests.lvlib" Type="Library" URL="../testing/file io module tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">1</Property>

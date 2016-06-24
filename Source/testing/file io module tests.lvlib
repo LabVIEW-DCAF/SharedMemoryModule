@@ -16,29 +16,29 @@
 		<Item Name="runtime execution.vi" Type="VI" URL="../runtime execution.vi"/>
 	</Item>
 	<Item Name="configuration methods.lvtest" Type="TestItem" URL="../configuration methods.lvtest">
-		<Property Name="utf.test.bind" Type="Str">current tag file io module tests.lvlib:configuration methods.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">A2654309-0784-3203-7123-5B8766FA6C95</Property>
+		<Property Name="utf.test.bind" Type="Str">file io module tests.lvlib:configuration methods.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">0EE35DCA-52E2-CC6C-C2D7-57D97C2147BA</Property>
 	</Item>
 	<Item Name="channel add.lvtest" Type="TestItem" URL="../channel add.lvtest">
-		<Property Name="utf.test.bind" Type="Str">current tag file io module tests.lvlib:channel add.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">DCCA544C-18F4-77F0-13B8-175949C3AC20</Property>
+		<Property Name="utf.test.bind" Type="Str">file io module tests.lvlib:channel add.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">B0BA8C7E-0589-5699-CC5E-679EF1C96EC0</Property>
 	</Item>
 	<Item Name="channel modify.lvtest" Type="TestItem" URL="../channel modify.lvtest">
-		<Property Name="utf.test.bind" Type="Str">current tag file io module tests.lvlib:channel modify.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">C39929D6-A483-0B3D-BD64-E13CA2027BB3</Property>
+		<Property Name="utf.test.bind" Type="Str">file io module tests.lvlib:channel modify.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">C94A6767-7449-C2D4-9B32-66005BDA7618</Property>
 	</Item>
 	<Item Name="channel delete.lvtest" Type="TestItem" URL="../channel delete.lvtest">
-		<Property Name="utf.vector.test.bind" Type="Str">7394E10F-E237-3898-A464-E115F2844E39</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">A5486B1C-516B-E3AF-6F78-94D7A96C72DB</Property>
 	</Item>
 	<Item Name="runtime init.lvtest" Type="TestItem" URL="../runtime init.lvtest">
-		<Property Name="utf.test.bind" Type="Str">current tag file io module tests.lvlib:runtime init.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">08143149-0650-4E51-99D7-B9C872786EDA</Property>
+		<Property Name="utf.test.bind" Type="Str">file io module tests.lvlib:runtime init.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">541BE5FF-4AB1-324D-264C-B9D3C13BD6A1</Property>
 	</Item>
 	<Item Name="runtime execution.lvtest" Type="TestItem" URL="../runtime execution.lvtest">
-		<Property Name="utf.test.bind" Type="Str">current tag file io module tests.lvlib:runtime execution.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">5B63F0CE-C2EF-EBE5-DEE7-FF6F736CC5C2</Property>
+		<Property Name="utf.test.bind" Type="Str">file io module tests.lvlib:runtime execution.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">788EA036-3B91-1114-6EC0-B33A6ED8EB6E</Property>
 	</Item>
 	<Item Name="file read and write.lvtest" Type="TestItem" URL="../file read and write.lvtest">
-		<Property Name="utf.vector.test.bind" Type="Str">873A4546-05BC-236D-86D1-986CC7407CF3</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">EE661F9A-5B7B-A738-1F83-0D87BC09FD0E</Property>
 	</Item>
 </Library>
