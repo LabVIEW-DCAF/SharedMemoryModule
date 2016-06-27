@@ -16,29 +16,23 @@
 		<Item Name="runtime execution.vi" Type="VI" URL="../runtime execution.vi"/>
 	</Item>
 	<Item Name="configuration methods.lvtest" Type="TestItem" URL="../configuration methods.lvtest">
-		<Property Name="utf.test.bind" Type="Str">file io module tests.lvlib:configuration methods.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">0EE35DCA-52E2-CC6C-C2D7-57D97C2147BA</Property>
+		<Property Name="utf.test.bind" Type="Str">shared memory module tests.lvlib:configuration methods.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">48349FE0-CFF8-55FF-711E-E65486CD1DD5</Property>
 	</Item>
 	<Item Name="channel add.lvtest" Type="TestItem" URL="../channel add.lvtest">
-		<Property Name="utf.test.bind" Type="Str">file io module tests.lvlib:channel add.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">B0BA8C7E-0589-5699-CC5E-679EF1C96EC0</Property>
+		<Property Name="utf.test.bind" Type="Str">shared memory module tests.lvlib:channel add.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">3B6C709D-77CE-2786-ABD4-764E145BE29D</Property>
 	</Item>
 	<Item Name="channel modify.lvtest" Type="TestItem" URL="../channel modify.lvtest">
-		<Property Name="utf.test.bind" Type="Str">file io module tests.lvlib:channel modify.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">C94A6767-7449-C2D4-9B32-66005BDA7618</Property>
-	</Item>
-	<Item Name="channel delete.lvtest" Type="TestItem" URL="../channel delete.lvtest">
-		<Property Name="utf.vector.test.bind" Type="Str">A5486B1C-516B-E3AF-6F78-94D7A96C72DB</Property>
+		<Property Name="utf.test.bind" Type="Str">shared memory module tests.lvlib:channel modify.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">EA88B90B-83D0-FC5D-EA8B-E5E72E3A12FC</Property>
 	</Item>
 	<Item Name="runtime init.lvtest" Type="TestItem" URL="../runtime init.lvtest">
-		<Property Name="utf.test.bind" Type="Str">file io module tests.lvlib:runtime init.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">541BE5FF-4AB1-324D-264C-B9D3C13BD6A1</Property>
+		<Property Name="utf.test.bind" Type="Str">shared memory module tests.lvlib:runtime init.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">B058BCDF-96EC-43C1-3E72-9CBAA47BCF04</Property>
 	</Item>
 	<Item Name="runtime execution.lvtest" Type="TestItem" URL="../runtime execution.lvtest">
-		<Property Name="utf.test.bind" Type="Str">file io module tests.lvlib:runtime execution.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">788EA036-3B91-1114-6EC0-B33A6ED8EB6E</Property>
-	</Item>
-	<Item Name="file read and write.lvtest" Type="TestItem" URL="../file read and write.lvtest">
-		<Property Name="utf.vector.test.bind" Type="Str">EE661F9A-5B7B-A738-1F83-0D87BC09FD0E</Property>
+		<Property Name="utf.test.bind" Type="Str">shared memory module tests.lvlib:runtime execution.vi</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">6D61AF20-5AF1-A2FE-C3BC-C78E1789C138</Property>
 	</Item>
 </Library>
