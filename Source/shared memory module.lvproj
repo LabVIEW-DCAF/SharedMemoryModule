@@ -142,7 +142,6 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="RefreshUI Event.vi" Type="VI" URL="../editor node/RefreshUI Event.vi"/>
-			<Item Name="Shared Memory Module Configuration.ctl" Type="VI" URL="../module/configuration/Shared Memory Module Configuration.ctl"/>
 			<Item Name="System" Type="VI" URL="System">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
