@@ -20,7 +20,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="File Operations [Test].vi" Type="VI" URL="../../../../Users/Lee/Desktop/File Operations [Test].vi"/>
 		<Item Name="Shared Memory Configuration.lvclass" Type="LVClass" URL="../module/configuration/Shared Memory Configuration.lvclass"/>
 		<Item Name="Shared Memory Editor Node.lvclass" Type="LVClass" URL="../editor node/Shared Memory Editor Node.lvclass"/>
 		<Item Name="Shared Memory Runtime.lvclass" Type="LVClass" URL="../module/execution/Shared Memory Runtime.lvclass"/>
