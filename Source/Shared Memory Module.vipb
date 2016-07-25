@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2016-07-25 13:36:28" Creator="Daniel" Comments="" ID="994a752c252e15ab63b14652f6ed5834">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2016-07-25 16:09:16" Creator="Daniel" Comments="" ID="4127cc4449071ee14a1d2f3fa9038494">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_shared_memory</Package_File_Name>
     <Library_Version>1.0.0.2</Library_Version>
@@ -18,6 +18,7 @@
   <Advanced_Settings>
     <Package_Dependencies>
       <Additional_External_Dependencies>national_instruments_lib_dcaf_table_api &gt;=1.0.0.4</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_dcaf_ui_toolkit &gt;=1.0.0.115</Additional_External_Dependencies>
       <Additional_External_Dependencies>ni_lib_tbm &gt;=2.1.0.1</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
