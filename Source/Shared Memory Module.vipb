@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2016-07-25 11:36:58" Creator="Daniel" Comments="" ID="5c0d384701adda7c516d06fcc98ff2b6">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2016-07-25 11:42:45" Creator="Daniel" Comments="" ID="677d06c03aaa5f440034bde0fc5d93af">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_shared_memory</Package_File_Name>
     <Library_Version>1.0.0.2</Library_Version>
@@ -115,7 +115,7 @@ More details in : https://github.com/NISystemsEngineering/CEF/issues</Release_No
         <Namespace/>
       </Namespace_Overrides>
     </Source_Files>
-    <License_Agreement_Filepath>LICENSE.txt</License_Agreement_Filepath>
+    <License_Agreement_Filepath>..\LICENSE.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
       <License_LF_file_path/>
       <Licensed_library_file_path/>
@@ -242,7 +242,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>testing</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>52603DF0B7E0ED7F07AF09889B5E8986</GUID>
+      <GUID>E52ACB759C9AC5DCC61663D66B51FBDC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -627,7 +627,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>editor node\Write Directory Set.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>29E1B111C5C34F33A512BC6A97FCBDAA</GUID>
+      <GUID>81A9D1CE07E50970FA1A6BED13B59C3F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -676,7 +676,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>module\execution</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A470FB5294B0717A850A060E71EC3DEA</GUID>
+      <GUID>77DF9A296C619E06C17157AC1A81AD86</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -795,7 +795,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>testing\runtime init.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0F7FE9BA24A00A5190785CF011BD7B2A</GUID>
+      <GUID>59DC2A695E3D899DEF301D1A37746B7C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1222,7 +1222,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>module\configuration\write write directory.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>39292559601B93D35BC48A927A0FD321</GUID>
+      <GUID>9DB4F154CFE3C454316F906D0EF17E24</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1425,7 +1425,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>module\execution\shared memory write.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>03BE8480486790D5628AA83587369CF5</GUID>
+      <GUID>B16CD9BE87694FA04AAACA2AF4AA8842</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -1474,7 +1474,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>module</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>441139E8C959F22080202E079C3BF328</GUID>
+      <GUID>C1B7A79EAFDA9B1EDAA0091E14A83126</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1565,7 +1565,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>editor node\table reference.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4B6456901A38001AE81C6BFB586BD6DA</GUID>
+      <GUID>E4A7A081513CB8FB3A9599F620ED7127</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1614,7 +1614,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>module\execution</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DE6E25607F1FF719A394308FE51D8F8B</GUID>
+      <GUID>F1E393B06E6C13400F67FAEE28EB2059</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1691,7 +1691,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>module\configuration\shared memory module configuration.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FA848DAEA8299BC7E8DF0D4FB0A43CA3</GUID>
+      <GUID>35F8159406A9568A49C6302B6755241E</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1726,7 +1726,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
         <Path>module\execution\shared memory module runtime.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>92BA0AC5FB38D3694788ECDE46CB953F</GUID>
+      <GUID>ABCA3877092FB3C342F29971ADD9FDB2</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
