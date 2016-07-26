@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2016-07-25 21:59:07" Creator="Daniel" Comments="" ID="cd2bfe5d0ee0e693e9ee031d4a3919c3">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2016-07-26 09:59:32" Creator="Daniel" Comments="" ID="cfd2d15a25ef1dd6346ec01253e58347">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_shared_memory</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.12</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\export</Library_Output_Folder>
@@ -40,7 +40,7 @@
       <Toolkit_VIs>
         <LLB>false</LLB>
         <Preserve_Hierarchy>true</Preserve_Hierarchy>
-        <Path>&lt;vi.lib&gt;\shared memory</Path>
+        <Path>&lt;vi.lib&gt;\NI\DCAF\Modules\Shared Memory</Path>
       </Toolkit_VIs>
       <Examples>
         <LLB>false</LLB>
