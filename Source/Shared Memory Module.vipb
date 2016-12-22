@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2016-12-08 15:24:53" Creator="Daniel" Comments="" ID="0aab325655d341f277fa3653e4b67dcd">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2016-12-22 11:24:52" Creator="Daniel" Comments="" ID="dc2d7160bd12234acf8d301f2183becc">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_shared_memory</Package_File_Name>
     <Library_Version>1.0.3.7</Library_Version>
@@ -34,9 +34,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>ni.com/dcaf</URL>
-      <Release_Notes>This release fixes:
-- namespacing of file
-- file permission issue</Release_Notes>
+      <Release_Notes>This release absorbs updates to depencency packages.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
