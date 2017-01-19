@@ -20,8 +20,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Shared Memory Configuration.lvclass" Type="LVClass" URL="../module/configuration/shared memory configuration.lvclass"/>
-		<Item Name="Shared Memory Configuration.lvclass" Type="LVClass" URL="../../../../../Users/Benjamin/Desktop/DCAFSharedMemoryModule/Source/module/configuration/Shared Memory Configuration.lvclass"/>
+		<Item Name="shared memory configuration.lvclass" Type="LVClass" URL="../module/configuration/shared memory configuration.lvclass"/>
 		<Item Name="shared memory editor node.lvclass" Type="LVClass" URL="../editor node/shared memory editor node.lvclass"/>
 		<Item Name="shared memory runtime.lvclass" Type="LVClass" URL="../module/execution/shared memory runtime.lvclass"/>
 		<Item Name="shared memory tests.lvlib" Type="Library" URL="../testing/shared memory tests.lvlib"/>
