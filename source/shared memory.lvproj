@@ -109,8 +109,8 @@ AddOutputFilter chunkFilter
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>
 			<Property Name="crio.Type" Type="Str">cRIO-9068</Property>
 		</Item>
-		<Item Name="Shared Memory Configuration.lvclass" Type="LVClass" URL="../module/configuration/shared memory configuration.lvclass"/>
-		<Item Name="Shared Memory Editor Node.lvclass" Type="LVClass" URL="../editor node/shared memory editor node.lvclass"/>
+		<Item Name="shared memory configuration.lvclass" Type="LVClass" URL="../module/configuration/shared memory configuration.lvclass"/>
+		<Item Name="shared memory editor node.lvclass" Type="LVClass" URL="../editor node/shared memory editor node.lvclass"/>
 		<Item Name="Shared Memory Runtime.lvclass" Type="LVClass" URL="../module/execution/shared memory runtime.lvclass"/>
 		<Item Name="shared memory tests.lvlib" Type="Library" URL="../testing/shared memory tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
