@@ -111,7 +111,7 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="shared memory configuration.lvclass" Type="LVClass" URL="../module/configuration/shared memory configuration.lvclass"/>
 		<Item Name="shared memory editor node.lvclass" Type="LVClass" URL="../editor node/shared memory editor node.lvclass"/>
-		<Item Name="Shared Memory Runtime.lvclass" Type="LVClass" URL="../module/execution/shared memory runtime.lvclass"/>
+		<Item Name="Shared Memory Runtime.lvclass" Type="LVClass" URL="../module/execution/Shared Memory Runtime.lvclass"/>
 		<Item Name="shared memory tests.lvlib" Type="Library" URL="../testing/shared memory tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
