@@ -12,9 +12,7 @@
 		<Item Name="subVIs" Type="Folder">
 			<Item Name="Write dummy data to data table.vi" Type="VI" URL="../Write dummy data to data table.vi"/>
 		</Item>
-		<Item Name="channel add.vi" Type="VI" URL="../channel add.vi"/>
 		<Item Name="modify channel test.vi" Type="VI" URL="../modify channel test.vi"/>
-		<Item Name="channel modify.vi" Type="VI" URL="../channel modify.vi"/>
 		<Item Name="configuration methods.vi" Type="VI" URL="../configuration methods.vi"/>
 		<Item Name="Create Test Configuration.vi" Type="VI" URL="../Create Test Configuration.vi"/>
 		<Item Name="get channels test.vi" Type="VI" URL="../get channels test.vi"/>
@@ -25,36 +23,32 @@
 	<Item Name="controls" Type="Folder">
 		<Item Name="channel classification index.ctl" Type="VI" URL="../channel classification index.ctl"/>
 	</Item>
-	<Item Name="channel add.lvtest" Type="TestItem" URL="../channel add.lvtest">
-		<Property Name="utf.test.bind" Type="Str">shared memory tests.lvlib:channel add.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">57E8B14A-8CBB-85E6-538F-7C519A652F96</Property>
-	</Item>
 	<Item Name="modify channel test.lvtest" Type="TestItem" URL="../modify channel test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">shared memory tests.lvlib:modify channel test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">5A0FCA0C-A873-72E6-758D-4848E954F81C</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">C955C423-F100-4D3E-2B60-44C64DA9B839</Property>
 	</Item>
 	<Item Name="Create Test Configuration.lvtest" Type="TestItem" URL="../Create Test Configuration.lvtest">
 		<Property Name="utf.test.bind" Type="Str">shared memory tests.lvlib:Create Test Configuration.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">E153977B-194E-16C6-4763-020A0E3D27AD</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">6A514732-F9C3-88F6-977E-95A3EC372E39</Property>
 	</Item>
 	<Item Name="configuration methods.lvtest" Type="TestItem" URL="../configuration methods.lvtest">
 		<Property Name="utf.test.bind" Type="Str">shared memory tests.lvlib:configuration methods.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">E426D041-F3CF-B9A9-B7D9-CE11A2BECC2F</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">47AC8B34-02D6-01DC-8C8D-4C0F24DA94FF</Property>
 	</Item>
 	<Item Name="serialization tests.lvtest" Type="TestItem" URL="../serialization tests.lvtest">
 		<Property Name="utf.test.bind" Type="Str">shared memory tests.lvlib:serialization tests.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">A93E3698-47CF-F6C3-371F-19DCDB05702A</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">D1BA44E3-B99D-798B-044B-CA0C0E4F4881</Property>
 	</Item>
 	<Item Name="get channels test.lvtest" Type="TestItem" URL="../get channels test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">shared memory tests.lvlib:get channels test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">13F2255D-A6A6-E461-EDEF-A4902607FD4E</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">8D11BD6F-B32C-EDEF-0721-53710C1A46C2</Property>
 	</Item>
 	<Item Name="init runtime test.lvtest" Type="TestItem" URL="../init runtime test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">shared memory tests.lvlib:init runtime test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">12314B4A-5205-EAF4-6FA1-2FCDE938D4B0</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">734478D4-CB85-109C-AD19-7C0AD1B07CE5</Property>
 	</Item>
 	<Item Name="runtime execution.lvtest" Type="TestItem" URL="../runtime execution.lvtest">
 		<Property Name="utf.test.bind" Type="Str">shared memory tests.lvlib:runtime execution.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">58E1A823-FF84-92CB-A9DD-AB08985F3DA7</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">EC15FF4B-575E-8417-FA3B-CF3C35F319DC</Property>
 	</Item>
 </Library>
