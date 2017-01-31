@@ -24,26 +24,26 @@
 	</Item>
 	<Item Name="modify channel test.lvtest" Type="TestItem" URL="../modify channel test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">shared memory tests.lvlib:modify channel test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">6A205D06-886D-DEAC-8CBE-14CDCA53D36C</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">49C022F0-32A3-738F-9D8E-92B4EC00C3D1</Property>
 	</Item>
 	<Item Name="Create Test Configuration.lvtest" Type="TestItem" URL="../Create Test Configuration.lvtest">
 		<Property Name="utf.test.bind" Type="Str">shared memory tests.lvlib:Create Test Configuration.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">EC229094-ED8D-BE37-345B-9A9AEDCB7B35</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">6FD9F97F-2532-E432-410D-A9621C3964C1</Property>
 	</Item>
 	<Item Name="configuration methods.lvtest" Type="TestItem" URL="../configuration methods.lvtest">
 		<Property Name="utf.test.bind" Type="Str">shared memory tests.lvlib:configuration methods.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">F9C178C8-68C4-70DA-115E-430B55236E08</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">0429B2CE-4291-3DD0-D475-85E61CBCBB87</Property>
 	</Item>
 	<Item Name="serialization tests.lvtest" Type="TestItem" URL="../serialization tests.lvtest">
 		<Property Name="utf.test.bind" Type="Str">shared memory tests.lvlib:serialization tests.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">54231484-82ED-B10A-67B7-A30FD27A0466</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">83EAE905-96F8-4800-AF4D-91795E88F6B0</Property>
 	</Item>
 	<Item Name="init runtime test.lvtest" Type="TestItem" URL="../init runtime test.lvtest">
 		<Property Name="utf.test.bind" Type="Str">shared memory tests.lvlib:init runtime test.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">EE60E44C-DB99-D476-3C68-F0CF15EBA65F</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">1F6CF15D-8F51-9CDB-2A9A-7CAC50CC2D8E</Property>
 	</Item>
 	<Item Name="runtime execution.lvtest" Type="TestItem" URL="../runtime execution.lvtest">
 		<Property Name="utf.test.bind" Type="Str">shared memory tests.lvlib:runtime execution.vi</Property>
-		<Property Name="utf.vector.test.bind" Type="Str">79965454-EFF4-6EB8-8259-8D7B86A2EFD5</Property>
+		<Property Name="utf.vector.test.bind" Type="Str">B04D3208-CAEB-913C-A147-94F82F9C2F73</Property>
 	</Item>
 </Library>
