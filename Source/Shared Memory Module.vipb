@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2016-12-22 11:24:52" Creator="Daniel" Comments="" ID="dc2d7160bd12234acf8d301f2183becc">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-02-07 17:33:32" Creator="Daniel" Comments="" ID="164a81fa32a58a0856831271ccb73e83">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_shared_memory</Package_File_Name>
-    <Library_Version>1.0.3.7</Library_Version>
+    <Library_Version>1.1.0.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\export</Library_Output_Folder>
@@ -34,7 +34,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>ni.com/dcaf</URL>
-      <Release_Notes>This release absorbs updates to depencency packages.</Release_Notes>
+      <Release_Notes>Linux shared memory namespace improvement, nonfunctional C header file controls for user feedback.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -108,6 +108,9 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
+      <Exclusions>
+        <Path>testing</Path>
+      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\LICENSE.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>

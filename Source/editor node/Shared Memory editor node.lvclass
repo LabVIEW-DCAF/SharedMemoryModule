@@ -311,7 +311,7 @@
 			</Item>
 		</Item>
 		<Item Name="module specific" Type="Folder">
-			<Item Name="read input file string.vi" Type="VI" URL="../../../../../../Users/Benjamin/Desktop/Shared Memory.lnk/editor node/read input file string.vi">
+			<Item Name="read input file string.vi" Type="VI" URL="../read input file string.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'K!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"J!-0````]2;7ZQ&gt;81A:GFM:3"T&gt;(*J&lt;G=!;E"Q!"Y!!%)F5%QA2H*B&lt;76X&lt;X*L)%.P&lt;G:J:X6S982J&lt;WYA6'^P&lt;#ZM&gt;GRJ9BJN&lt;W2V&lt;'5A:72J&gt;'^S)'ZP:'5O&lt;(:D&lt;'&amp;T=Q!!(8.I98*F:#"N:7VP=HEA:72J&gt;'^S)'ZP:'5A&lt;X6U!":!5!!$!!!!!1!##'6S=G^S)'FO!!"G1(!!(A!!1C614#"'=G&amp;N:8&gt;P=GMA1W^O:GFH&gt;8*B&gt;'FP&lt;C"5&lt;W^M,GRW&lt;'FC'GVP:(6M:3"F:'FU&lt;X)A&lt;G^E:3ZM&gt;G.M98.T!!!:=WBB=G6E)'VF&lt;7^S?3"F:'FU&lt;X)A&lt;G^E:1"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!1!#!-!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!#A!!$1!!!!Q!!!!!!!!!!!!!!1!*!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
