@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-02-22 11:26:38" Creator="Daniel" Comments="" ID="e29b5d5d59ae01573c38d9a6fcb04049">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-02-22 11:43:39" Creator="Daniel" Comments="" ID="5f42e39e44746ea3cb318f2b53cedf90">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_shared_memory</Package_File_Name>
-    <Library_Version>1.1.0.12</Library_Version>
+    <Library_Version>1.1.0.13</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\export</Library_Output_Folder>
