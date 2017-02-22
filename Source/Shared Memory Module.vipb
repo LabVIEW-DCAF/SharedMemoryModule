@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-02-21 15:09:44" Creator="Daniel" Comments="" ID="8268a48d5f6f4f7a5d346fd8f5b9a43a">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-02-22 11:26:38" Creator="Daniel" Comments="" ID="e29b5d5d59ae01573c38d9a6fcb04049">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_shared_memory</Package_File_Name>
     <Library_Version>1.1.0.12</Library_Version>
@@ -34,7 +34,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>ni.com/dcaf</URL>
-      <Release_Notes>Fix editor node issue with supported channel classifications.</Release_Notes>
+      <Release_Notes>DCAF engine loop start time tag added, relink to library VI dependencies. </Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
