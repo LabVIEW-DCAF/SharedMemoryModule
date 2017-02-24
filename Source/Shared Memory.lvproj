@@ -34,6 +34,7 @@
 		<Property Name="host.ResponsivenessCheckPingTimeout" Type="UInt">1000</Property>
 		<Property Name="host.TargetCPUID" Type="UInt">8</Property>
 		<Property Name="host.TargetOSID" Type="UInt">8</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="target.cleanupVisa" Type="Bool">false</Property>
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Port" Type="Int">80</Property>
@@ -113,6 +114,7 @@ DirectoryIndex index.htm
 		<Item Name="Shared Memory configuration.lvclass" Type="LVClass" URL="../module/configuration/Shared Memory configuration.lvclass"/>
 		<Item Name="Shared Memory editor node.lvclass" Type="LVClass" URL="../editor node/Shared Memory editor node.lvclass"/>
 		<Item Name="Shared Memory runtime.lvclass" Type="LVClass" URL="../module/execution/Shared Memory runtime.lvclass"/>
+		<Item Name="C Header Generator.lvlib" Type="Library" URL="../cheddar/C Header Generator.lvlib"/>
 		<Item Name="Shared Memory tests.lvlib" Type="Library" URL="../testing/Shared Memory tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
