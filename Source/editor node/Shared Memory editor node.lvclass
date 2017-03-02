@@ -720,6 +720,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
+		<Item Name="remove unwanted characters from string.vi" Type="VI" URL="../remove unwanted characters from string.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$;!!!!"Q!%!!!!&amp;%!Q`````QJT&gt;(*J&lt;G=A&lt;X6U!!!;1$$`````%(*F='RB9W5A&gt;WFU;#!I8SE!!""!-0````]'5X2S;7ZH!!!K1%!!!@````]!!RRV&lt;H&gt;B&lt;H2F:#"Q982U:8*O=S^D;'&amp;S97.U:8*T!!!31$$`````#8.U=GFO:S"J&lt;A"5!0!!$!!!!!!!!!!"!!!!!!!!!!!!!!!#!!1!"1-!!(A!!!!!!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!AA!!!)1!!!!%A!!!!!"!!9!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		</Item>
 		<Item Name="unmap start time tag to channel.vi" Type="VI" URL="../sync/unmap start time tag to channel.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!+6!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!)2!=!!?!!"**6"-)%:S97VF&gt;W^S;S"$&lt;WZG;7&gt;V=G&amp;U;7^O)&amp;2P&lt;WQO&lt;(:M;7)B27ZH;7ZF)&amp;"B=G6O&gt;#"&amp;:'FU&lt;X)A4G^E:3ZM&gt;G.M98.T!$&amp;597=A272J&gt;'^S)%.P=G5[27ZH;7ZF)&amp;"B=G6O&gt;#"&amp;:'FU&lt;X)A4G^E:3ZM&gt;G.M98.T!".!=!!A!!%!"1!':7ZH;7ZF!!"Q1(!!(A!!1C614#"'=G&amp;N:8&gt;P=GMA1W^O:GFH&gt;8*B&gt;'FP&lt;C"5&lt;W^M,GRW&lt;'FC'GVP:(6M:3"F:'FU&lt;X)A&lt;G^E:3ZM&gt;G.M98.T!!!C6'&amp;H)%6E;82P=C"$&lt;X*F/GVP:(6M:3"F:'FU&lt;X)A&lt;G^E:1!!&amp;5"Q!#!!!1!(!!B/&lt;W2F)&amp;*F:A!!8Q$R!!!!!!!!!!-46'&amp;C&lt;'5A47&amp;O97&gt;F=CZM&gt;GRJ9B6597*M:3".97ZB:W6S,GRW9WRB=X-/&lt;W*K:7.U)(*F:CZD&gt;'Q!(E"1!!)!"A!)$F*F:G6S:7ZD:8-A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!&amp;U!]1!!!!!!!!!$%V2B9GRF)%VB&lt;G&amp;H:8)O&lt;(:M;7)66'&amp;C&lt;'5A47&amp;O97&gt;F=CZM&gt;G.M98.T$G^C;G6D&gt;#"S:79O9X2M!"R!5!!#!!9!#!V3:7:F=G6O9W6T)'FO!&amp;1!]!!-!!-!"!!%!!E!"!!%!!1!"!!+!!1!"!!,!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!1!!!!!!%!$!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
