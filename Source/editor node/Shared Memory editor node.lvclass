@@ -27,6 +27,15 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="controls" Type="Folder">
+		<Item Name="define numeric params.ctl" Type="VI" URL="../define numeric params.ctl">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!##!!!!!Q!/1$$`````"'ZB&lt;75!!!R!-0````]$98*H!'!!]1!!!!!!!!!#)6.I98*F:#".:7VP=HEA:72J&gt;'^S)'ZP:'5O&lt;(:D&lt;'&amp;T=RFE:7:J&lt;G5A&lt;H6N:8*J9S"Q98*B&lt;8-O9X2M!"R!5!!#!!!!!1VE:7:J&lt;G5A='&amp;S97VT!!%!!A!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1074278912</Property>
+		</Item>
 		<Item Name="define string params.ctl" Type="VI" URL="../define string params.ctl">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!-!!!!!1!%!!!!!1!!!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -801,15 +810,6 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		</Item>
-	</Item>
-	<Item Name="define numeric params.ctl" Type="VI" URL="../define numeric params.ctl">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!##!!!!!Q!/1$$`````"'ZB&lt;75!!!R!-0````]$98*H!'!!]1!!!!!!!!!#)6.I98*F:#".:7VP=HEA:72J&gt;'^S)'ZP:'5O&lt;(:D&lt;'&amp;T=RFE:7:J&lt;G5A&lt;H6N:8*J9S"Q98*B&lt;8-O9X2M!"R!5!!#!!!!!1VE:7:J&lt;G5A='&amp;S97VT!!%!!A!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">1048576</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1074278912</Property>
 	</Item>
 	<Item Name="Main Editor UI.vi" Type="VI" URL="../Main Editor UI.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"A!!!!!A!%!!!!6!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!"!!!!!!</Property>
