@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-03-09 15:54:01" Creator="Daniel" Comments="" ID="b0f8fd4d76e821ba27e545a65669d610">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-03-16 18:18:45" Creator="Daniel" Comments="" ID="9453e0cb922f4df19c8d53088732188b">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_shared_memory</Package_File_Name>
     <Library_Version>1.1.0.13</Library_Version>
@@ -17,9 +17,8 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
+      <Additional_External_Dependencies>national_instruments_lib_ni_linux_rt_inter_process_communication &gt;=1.0.0.2</Additional_External_Dependencies>
       <Additional_External_Dependencies>national_instruments_lib_ni_linux_rt_utilities &gt;=1.0.0.2</Additional_External_Dependencies>
-      <Additional_External_Dependencies>national_instruments_lib_pthreads_for_labview_on_linux_rt &gt;=1.0.0.5</Additional_External_Dependencies>
-      <Additional_External_Dependencies>national_instruments_lib_shared_memory_library_for_linux_rt &gt;=1.0.0.2</Additional_External_Dependencies>
       <Additional_External_Dependencies>ni_frmwk_dcaf_core &gt;=1.0.0.5</Additional_External_Dependencies>
       <Additional_External_Dependencies>ni_lib_dcaf_standard_engine &gt;=2.3.2.103</Additional_External_Dependencies>
     </Package_Dependencies>

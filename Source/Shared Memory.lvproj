@@ -25,7 +25,7 @@
 	</Item>
 	<Item Name="RT CompactRIO Target" Type="RT CompactRIO">
 		<Property Name="alias.name" Type="Str">RT CompactRIO Target</Property>
-		<Property Name="alias.value" Type="Str">0.0.0.0</Property>
+		<Property Name="alias.value" Type="Str">10.1.128.53</Property>
 		<Property Name="CCSymbols" Type="Str">OS,Linux;CPU,ARM;DeviceCode,76D6;TARGET_TYPE,RT;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">76D6</Property>
 		<Property Name="crio.family" Type="Str">ARMLinux</Property>
@@ -126,8 +126,7 @@ DirectoryIndex index.htm
 				<Item Name="NISE_error generator.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Configuration Framework/error generator/NISE_error generator.vi"/>
 				<Item Name="TBM module configuration.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/Tag Bus Module Framework/module configuration/TBM module configuration.lvclass"/>
 				<Item Name="TBM configuration.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/Tag Bus Module Framework/root configuration/TBM configuration.lvclass"/>
-				<Item Name="Shared Memory.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Shared Memory.lvlib"/>
-				<Item Name="POSIX Threads.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Pthreads for LabVIEW on Linux RT/POSIX Threads.lvlib"/>
+				<Item Name="Shared Memory.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/NI Linux RT IPC/Shared Memory/Shared Memory.lvlib"/>
 				<Item Name="Linux Errno.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/NI Linux RT Errno/Linux Errno.lvlib"/>
 				<Item Name="Linux RT Utilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/NI Linux RT Utilities/Linux RT Utilities.lvlib"/>
 				<Item Name="TBM module execution interface.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/Tag Bus Module Framework/runtime/TBM module execution interface.lvclass"/>
@@ -261,6 +260,32 @@ DirectoryIndex index.htm
 				<Item Name="Release Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Release Semaphore.vi"/>
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+				<Item Name="panelstate.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/panelstate.ctl"/>
+				<Item Name="sizeaction.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/sizeaction.ctl"/>
+				<Item Name="Shared Memory.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Classes/Shared Memory/Shared Memory.lvclass"/>
+				<Item Name="POSIX Threads.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/NI Linux RT IPC/POSIX Threads/POSIX Threads.lvlib"/>
+				<Item Name="Read 1D Array DBL.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Read 1D Array DBL.vi"/>
+				<Item Name="Read 1D Array SGL.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Read 1D Array SGL.vi"/>
+				<Item Name="Read 1D Array I64.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Read 1D Array I64.vi"/>
+				<Item Name="Read 1D Array I32.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Read 1D Array I32.vi"/>
+				<Item Name="Read 1D Array I16.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Read 1D Array I16.vi"/>
+				<Item Name="Read 1D Array I8.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Read 1D Array I8.vi"/>
+				<Item Name="Read 1D Array U64.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Read 1D Array U64.vi"/>
+				<Item Name="Read 1D Array U32.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Read 1D Array U32.vi"/>
+				<Item Name="Read 1D Array U16.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Read 1D Array U16.vi"/>
+				<Item Name="Read 1D Array U8.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Read 1D Array U8.vi"/>
+				<Item Name="Read 1D Array Boolean.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Read 1D Array Boolean.vi"/>
+				<Item Name="Write 1D Array DBL.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Write 1D Array DBL.vi"/>
+				<Item Name="Write 1D Array SGL.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Write 1D Array SGL.vi"/>
+				<Item Name="Write 1D Array I64.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Write 1D Array I64.vi"/>
+				<Item Name="Write 1D Array I32.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Write 1D Array I32.vi"/>
+				<Item Name="Write 1D Array I16.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Write 1D Array I16.vi"/>
+				<Item Name="Write 1D Array I8.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Write 1D Array I8.vi"/>
+				<Item Name="Write 1D Array U64.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Write 1D Array U64.vi"/>
+				<Item Name="Write 1D Array U32.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Write 1D Array U32.vi"/>
+				<Item Name="Write 1D Array U16.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Write 1D Array U16.vi"/>
+				<Item Name="Write 1D Array U8.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Write 1D Array U8.vi"/>
+				<Item Name="Write 1D Array Boolean.vi" Type="VI" URL="/&lt;vilib&gt;/NI/Shared Memory Library/Pointer Operations/Write 1D Array Boolean.vi"/>
 			</Item>
 			<Item Name="System.Windows.Forms" Type="Document" URL="System.Windows.Forms">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
