@@ -16,6 +16,8 @@
 		<Item Name="Add Line.vi" Type="VI" URL="../VIs/Add Line.vi"/>
 		<Item Name="Add Tab.vi" Type="VI" URL="../VIs/Add Tab.vi"/>
 		<Item Name="Check File Extension.vi" Type="VI" URL="../VIs/Check File Extension.vi"/>
+		<Item Name="Define End If.vi" Type="VI" URL="../VIs/Define End If.vi"/>
+		<Item Name="Define If Not.vi" Type="VI" URL="../VIs/Define If Not.vi"/>
 		<Item Name="Define Integer.vi" Type="VI" URL="../VIs/Define Integer.vi"/>
 		<Item Name="Define String.vi" Type="VI" URL="../VIs/Define String.vi"/>
 		<Item Name="Encase in Arrows.vi" Type="VI" URL="../VIs/Encase in Arrows.vi"/>
