@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-05-10 15:24:00" Creator="Daniel" Comments="" ID="3c9e8de63de245105cd3b1be616eb966">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-05-10 17:16:33" Creator="Daniel" Comments="" ID="327f0b03637252155af7239a2e9b4b13">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_shared_memory</Package_File_Name>
     <Library_Version>1.2.0.13</Library_Version>
@@ -38,7 +38,7 @@ The DCAF Shared Memory Module is supported on all NI Linux RT hardware targets.
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>http://forums.ni.com/t5/Distributed-Control-Automation/DCAF-Shared-Memory-Module-Documentation/gpm-p/3620996</URL>
-      <Release_Notes>NI Linux RT library dependencies updated, unit testing.</Release_Notes>
+      <Release_Notes>Initial public release dependent on the NI Linux RT Inter-process Communication library.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
