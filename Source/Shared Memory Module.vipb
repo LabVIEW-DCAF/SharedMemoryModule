@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-04-28 14:56:16" Creator="Daniel" Comments="" ID="87497d8c53997d186b5b707d30611040">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-05-10 15:24:00" Creator="Daniel" Comments="" ID="3c9e8de63de245105cd3b1be616eb966">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_shared_memory</Package_File_Name>
     <Library_Version>1.2.0.13</Library_Version>
@@ -17,11 +17,8 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>national_instruments_lib_ni_linux_rt_inter_process_communication &gt;=1.0.0.2</Additional_External_Dependencies>
-      <Additional_External_Dependencies>national_instruments_lib_ni_linux_rt_utilities &gt;=1.0.0.2</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_frmwk_dcaf_core &gt;=1.0.0.5</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dcaf_standard_engine &gt;=2.3.2.103</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dcaf_tag_editor &gt;=2.3.0.243</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_frmwk_dcaf_core &gt;=1.2.0.2</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_ni_linux_rt_ipc &gt;=1.0.0.6</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
@@ -34,12 +31,14 @@
     <VI_Package_Configuration_File>Shared Memory Module.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>DCAF Module for data access using Linux shared memory.</One_Line_Description_Summary>
-      <Description>This module allows the user to map tag data values to Linux shared memory.</Description>
+      <Description>This module allows the user to map tags to Linux shared memory, share timing information, and synchronize execution of application processes on NI Linux RT targets.
+
+The DCAF Shared Memory Module is supported on all NI Linux RT hardware targets.
+</Description>
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
-      <URL>ni.com/dcaf</URL>
-      <Release_Notes>Modified file naming convention to lowercase for the Linux filesystem.
-Updated to LabVIEW 2014 or later</Release_Notes>
+      <URL>http://forums.ni.com/t5/Distributed-Control-Automation/DCAF-Shared-Memory-Module-Documentation/gpm-p/3620996</URL>
+      <Release_Notes>NI Linux RT library dependencies updated, unit testing.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
