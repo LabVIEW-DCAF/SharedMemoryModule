@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-05-10 17:16:33" Creator="Daniel" Comments="" ID="327f0b03637252155af7239a2e9b4b13">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2014-11-21 15:11:17" Modified_Date="2017-05-12 13:14:30" Creator="Daniel" Comments="" ID="ee44bd3bfee50bbd6c2b6a7a4aa02862">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_dcaf_shared_memory</Package_File_Name>
     <Library_Version>1.2.0.13</Library_Version>
@@ -31,7 +31,7 @@
     <VI_Package_Configuration_File>Shared Memory Module.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>DCAF Module for data access using Linux shared memory.</One_Line_Description_Summary>
-      <Description>This module allows the user to map tags to Linux shared memory, share timing information, and synchronize execution of application processes on NI Linux RT targets.
+      <Description>This module allows the user to map tags to Linux shared memory, share timing information, and synchronize the execution of application processes on NI Linux RT targets.
 
 The DCAF Shared Memory Module is supported on all NI Linux RT hardware targets.
 </Description>
