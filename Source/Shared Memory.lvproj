@@ -25,7 +25,7 @@
 	</Item>
 	<Item Name="RT CompactRIO Target" Type="RT CompactRIO">
 		<Property Name="alias.name" Type="Str">RT CompactRIO Target</Property>
-		<Property Name="alias.value" Type="Str">10.1.128.248</Property>
+		<Property Name="alias.value" Type="Str">10.0.18.181</Property>
 		<Property Name="CCSymbols" Type="Str">OS,Linux;CPU,ARM;DeviceCode,76D6;TARGET_TYPE,RT;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">76D6</Property>
 		<Property Name="crio.family" Type="Str">ARMLinux</Property>
@@ -36,6 +36,8 @@
 		<Property Name="host.TargetOSID" Type="UInt">8</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="target.cleanupVisa" Type="Bool">false</Property>
+		<Property Name="target.Deployment_DownloadInstallerPath" Type="Path"></Property>
+		<Property Name="target.Deployment_SilentInstallation" Type="Bool">false</Property>
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Port" Type="Int">80</Property>
 		<Property Name="target.getDefault-&gt;WebServer.Timeout" Type="Int">60</Property>
@@ -114,8 +116,8 @@ DirectoryIndex index.htm
 		<Item Name="Shared Memory configuration.lvclass" Type="LVClass" URL="../module/configuration/Shared Memory configuration.lvclass"/>
 		<Item Name="Shared Memory editor node.lvclass" Type="LVClass" URL="../editor node/Shared Memory editor node.lvclass"/>
 		<Item Name="Shared Memory runtime.lvclass" Type="LVClass" URL="../module/execution/Shared Memory runtime.lvclass"/>
-		<Item Name="Shared Memory tests.lvlib" Type="Library" URL="../testing/Shared Memory tests.lvlib"/>
 		<Item Name="C Header Generator.lvlib" Type="Library" URL="../cheddar/C Header Generator.lvlib"/>
+		<Item Name="Shared Memory tests.lvlib" Type="Library" URL="../testing/Shared Memory tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="TBM channel.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/NI/Tag Bus Module Framework/channel/TBM channel.lvclass"/>
