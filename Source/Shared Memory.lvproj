@@ -230,6 +230,9 @@ DirectoryIndex index.htm
 				<Item Name="eventvkey.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/eventvkey.ctl"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+				<Item Name="Linux RT IPC.Shared Memory.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/NI Linux RT IPC/Shared Memory/Linux RT IPC.Shared Memory.lvlib"/>
+				<Item Name="Linux RT IPC.C.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/NI Linux RT IPC/C/Linux RT IPC.C.lvlib"/>
+				<Item Name="Linux RT IPC.POSIX Threads.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/NI Linux RT IPC/POSIX Threads/Linux RT IPC.POSIX Threads.lvlib"/>
 			</Item>
 			<Item Name="System.Windows.Forms" Type="Document" URL="System.Windows.Forms">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
